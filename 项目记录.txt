@@ -1,0 +1,34 @@
+goodlive 项目:
+
+启动：
+1.第一步（启动react）：
+cd goodlive5
+npm start
+2.第二步 （启动后端）：
+cd server
+node server.js
+
+已完成：
+1. 顶部功能： 
+   左边城市切换 （react redux）；
+   中间搜索功能  （axios）；
+   右边收藏功能  (react redux)；
+2. 主页面展示（home）
+3. 商品详情页展示 (路由传参）
+4. 城市切换页展示
+5. 收藏功能 （react redux）
+6. 路由配置 (react-router-dom)
+7. api配置 （axios）
+8. 后端服务器 ( node， express)及模拟数据（死数据，
+    所有搜索返回同样数据）
+9. react redux
+10. 底部导航切换
+11. 解决跨域(cors)
+
+
+未完成：
+1.登录功能
+2.商城页面 （无数据）
+3.生活服务页面 （无数据）
+4.轮播图
+

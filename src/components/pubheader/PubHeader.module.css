@@ -1,0 +1,24 @@
+.container{
+  position: sticky;
+  top: 0px;
+  background-color: orangered;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  /* justify-content: space-between; */
+align-items: center;
+padding-left: 3%;
+padding-right: 3%;
+
+
+}
+
+.container i{
+  color: white;
+}
+
+.container h3{
+  /* margin-left: 20px; */
+  color: white;
+  margin: auto;
+}

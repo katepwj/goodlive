@@ -1,0 +1,23 @@
+
+.container{
+  display: flex;
+  border-radius: 10px;
+  border:1px solid orangered;
+  background-color: white;
+  padding:5px;
+  width: 70%;
+  align-items: center;
+  /* justify-content: space-evenly; */
+
+}
+
+.container form{
+margin-left: 5px;
+  width: 100%;
+}
+
+.container input{ 
+    border: none;
+    outline: none;
+    width: 100%;   
+  }

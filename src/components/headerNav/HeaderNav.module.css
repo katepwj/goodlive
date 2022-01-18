@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  width: 100%;
+  background-color: orangered;
+  height: 50px;
+  align-items: center;
+  justify-content: space-around;
+position: sticky;
+top:0px;
+color: white;
+
+}
+
+
+.link{
+text-decoration: none;
+color: white;
+margin-right: 5px;
+/* font-size: larger; */
+/* font-weight: bolder; */
+}

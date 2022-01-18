@@ -1,0 +1,33 @@
+.container{
+  width: 100%;
+  padding-right: 3%;
+  padding-left: 3%;
+}
+
+.container span{
+font-size: larger;
+}
+
+.container ul{
+  display: flex;
+  flex-wrap:wrap;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.container li{
+ border: 1px solid grey;
+ padding: 10px;
+ width: 100px;
+ margin: 15px;
+ margin-left: 0;
+ text-align: center;
+ /* box-shadow: 3px 3px 5px #888888; */
+}
+ .active{
+  font-weight: bolder;
+  color: orangered;
+
+
+
+}

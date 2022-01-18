@@ -1,0 +1,42 @@
+.container{
+  width: 100%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+
+.container h3{
+  text-align: center;
+  margin: 20px;
+}
+
+.container ul{
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid lightgrey;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+  flex-wrap: wrap;
+  box-shadow: 3px 3px 10px #888888;
+}
+
+
+.container img{
+  border-radius: 40px;
+  width: 80px;
+  height: 80px;
+
+}
+
+
+.container li{
+  margin:10px;
+width: 250px;
+
+}
+
+.container p{
+  text-align: center;
+
+}
